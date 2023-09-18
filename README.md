@@ -1,0 +1,1 @@
+# YogaPoseClassification_YoloV8-Pose
